@@ -1,6 +1,6 @@
 # Protechtronic Dynamics #
 
-## Beyond Boundaries, Engineering Tomorrow ##
+### Beyond Boundaries, Engineering Tomorrow ###
 <!--
 
 **Here are some ideas to get you started:**
